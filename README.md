@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm kavishan12345</h1>
+<h1 align="center">Hi 👋, I'm kavishan</h1>
 <h3 align="center">Progams and . mobile phones and pc repaire</h3>
 
-<img align="right"alt="coding" width="400" scr"![Uploading image.png…]()
+<img align="right" alt="coding" width="400" scr="![Uploading image.png…]()
 ">
 
 - ⚡ Fun fact **i am funny**
