@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kavishan12345</h1>
 <h3 align="center">Progams and . mobile phones and pc repaire</h3>
 
-<img align="righ"alt="coding"width="400" scr"https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?pid=ImgDet&rs=1.gif">
+<img align="righ"alt="coding"width="400" scr"https://th.bing.com/th/id/OIP.VON9gHTrzeHZbHfXsqfzEAHaEq?pid=ImgDet&rs=1">
 
 - ⚡ Fun fact **i am funny**
 
