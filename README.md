@@ -1,91 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hellow I am Janeesha Kavishan 👋</title>
-</head>
-<style>
-    @property --d{
-  syntax: '<angle>';
-  inherits: true;
-  initial-value: 0deg;
-}
-button {
-  width: 200px;
-  aspect-ratio:1;
-  font-size:30px;
-  color: #fff;
-  background: none;
-  border: none;
-  border-radius: 20px; 
-  position: relative;
-  z-index: 0;
-  transition: .3s;
-  cursor: pointer;
-}
-button:before {
-  content: "";
-  position: absolute;
-  inset: -8px;
-  padding: 8px;
-  border-radius: 28px; 
-  background: conic-gradient(from var(--d,0deg),
-  #21D4FD ,
-        #0000 30deg 120deg,
-        #B721FF 150deg 180deg,
-        #0000 210deg 300deg,
-        #21D4FD 330deg
-    );
-    -webkit-mask:
-        linear-gradient(#000 0 0) content-box,
-        linear-gradient(#000 0 0);
-    -webkit-mask-composite: xor;
-            mask-composite: intersect
-    }
-    button:after {
-    content: "";
-    position: absolute;
-    inset: -100px;
-    background:
-        radial-gradient(80px at left  150px top    120px,#21D4FD 98%,#0000),
-        radial-gradient(80px at right 150px bottom 120px,#B721FF 98%,#0000);
-    filter: blur(60px);
-    opacity: .5;
-    }
+![logo](https://github.com/settings/profile)
+<h1 align="center">Hi 👋, I'm kavishan</h1>
+<h3 align="center">Progams and . mobile phones and pc repaire</h3>
 
-    button:before,
-    button:after {
-    transition:.5s, 99999s 99999s transform, 99999s 99999s --d;
-    }
-    button:hover {
-    box-shadow: 0 0 0 1px #666;
-    }
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/kavishan12345/kavishan12345/assets/133784376/9bbb0f79-70b8-4c16-a75f-626b5b45cdf0)
+">
 
+- ⚡ Fun fact **i am funny**
 
-    button:hover:after {
-    transform: rotate(3600deg);
-    transition: .5s,60s linear transform;
-    }
-    button:hover:before {
-    --d: 3600deg;
-    transition: .5s,60s linear --d;
-    }
-    button:hover:before {
-    background-color: #222;
-    }
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/" height="30" width="40" /></a>
+</p>
 
-    body {
-    margin: 0;
-    min-height: 100vh;
-    display: grid;
-    place-content: center;
-    grid-auto-flow: column;
-    background-color: #1b1b1c;
-    }
-</style>
-<body>
-    <button><font-size=3> Hellow I am Janeesha Kavishan 👋</font-size></button>
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+
